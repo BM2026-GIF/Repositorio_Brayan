@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\bin\Debug\ProyectoExamen1.exe.config
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\bin\Debug\ProyectoExamen1.exe
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\bin\Debug\ProyectoExamen1.pdb
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\obj\Debug\ProyectoExamen1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\obj\Debug\ProyectoExamen1.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\obj\Debug\ProyectoExamen1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\obj\Debug\ProyectoExamen1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\obj\Debug\ProyectoExamen1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\obj\Debug\ProyectoExamen1.exe
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\obj\Debug\ProyectoExamen1.pdb
+C:\Users\Usuario\Desktop\Examen_Brayan\Repositorio_Brayan\ProyectoExamen1\ProyectoExamen1\obj\Debug\ProyectoExamen1.FrmResumen.resources

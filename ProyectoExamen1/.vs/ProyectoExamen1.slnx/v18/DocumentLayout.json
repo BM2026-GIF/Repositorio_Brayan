@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Examen_Brayan\\Repositorio_Brayan\\ProyectoExamen1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE840524-15F6-469F-81A0-BFBB98983A11}|ProyectoExamen1\\ProyectoExamen1.csproj|c:\\users\\usuario\\desktop\\examen_brayan\\repositorio_brayan\\proyectoexamen1\\proyectoexamen1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE840524-15F6-469F-81A0-BFBB98983A11}|ProyectoExamen1\\ProyectoExamen1.csproj|solutionrelative:proyectoexamen1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE840524-15F6-469F-81A0-BFBB98983A11}|ProyectoExamen1\\ProyectoExamen1.csproj|c:\\users\\usuario\\desktop\\examen_brayan\\repositorio_brayan\\proyectoexamen1\\proyectoexamen1\\frmresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE840524-15F6-469F-81A0-BFBB98983A11}|ProyectoExamen1\\ProyectoExamen1.csproj|solutionrelative:proyectoexamen1\\frmresumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE840524-15F6-469F-81A0-BFBB98983A11}|ProyectoExamen1\\ProyectoExamen1.csproj|c:\\users\\usuario\\desktop\\examen_brayan\\repositorio_brayan\\proyectoexamen1\\proyectoexamen1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FE840524-15F6-469F-81A0-BFBB98983A11}|ProyectoExamen1\\ProyectoExamen1.csproj|solutionrelative:proyectoexamen1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -14,11 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmResumen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Examen_Brayan\\Repositorio_Brayan\\ProyectoExamen1\\ProyectoExamen1\\FrmResumen.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen1\\FrmResumen.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Examen_Brayan\\Repositorio_Brayan\\ProyectoExamen1\\ProyectoExamen1\\FrmResumen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoExamen1\\FrmResumen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:59:12.524Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Examen_Brayan\\Repositorio_Brayan\\ProyectoExamen1\\ProyectoExamen1\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Examen_Brayan\\Repositorio_Brayan\\ProyectoExamen1\\ProyectoExamen1\\Form1.cs",
+              "RelativeToolTip": "ProyectoExamen1\\Form1.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:56:52.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Examen_Brayan\\Repositorio_Brayan\\ProyectoExamen1\\ProyectoExamen1\\Form1.cs",
               "RelativeDocumentMoniker": "ProyectoExamen1\\Form1.cs",
