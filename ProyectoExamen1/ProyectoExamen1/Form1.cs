@@ -37,6 +37,7 @@ namespace ProyectoExamen1
 
         private void btnVerResumen_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("DEBE DE INGRESAR LOS DATOS SOLICITADOS");
             
             if (string.IsNullOrWhiteSpace(txtNombre.Text))
             {
@@ -58,6 +59,9 @@ namespace ProyectoExamen1
                 MessageBox.Show("Debe seleccionar un vehículo.");
                 return;
             }
+           
+
+
             FrmResumen frm = new FrmResumen(
                txtNombre.Text,
                txtDni.Text,
