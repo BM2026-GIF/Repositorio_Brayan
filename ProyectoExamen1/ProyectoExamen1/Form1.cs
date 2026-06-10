@@ -58,8 +58,14 @@ namespace ProyectoExamen1
                 MessageBox.Show("Debe seleccionar un vehículo.");
                 return;
             }
+            FrmResumen frm = new FrmResumen(
+               txtNombre.Text,
+               txtDni.Text,
+               txtTelefono.Text,
+               cmbVehiculo.SelectedItem.ToString()
+           );
+            frm.ShowDialog();
 
-            
         }
     }
 }

@@ -54,7 +54,7 @@
                 | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(225, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(282, 51);
+            this.label1.Size = new System.Drawing.Size(279, 49);
             this.label1.TabIndex = 0;
             this.label1.Text = "AutoRent HN ";
             // 
@@ -143,6 +143,7 @@
             // 
             // picVehiculo
             // 
+            this.picVehiculo.Image = ((System.Drawing.Image)(resources.GetObject("picVehiculo.Image")));
             this.picVehiculo.Location = new System.Drawing.Point(571, 334);
             this.picVehiculo.Name = "picVehiculo";
             this.picVehiculo.Size = new System.Drawing.Size(146, 123);
